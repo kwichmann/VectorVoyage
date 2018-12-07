@@ -55,7 +55,7 @@ function setup() {
         new Event("sejl", ""),
         new Event("vind", "4 felter diagonalt mod sydøst"),
         new Event("sejl", ""),
-        new Event("vind", "4 felter mod vest"),
+        new Event("vind", "2 felter mod vest"),
         new Event("sejl", ""),
         new Event("slut", "")
     ];
@@ -66,9 +66,10 @@ function setup() {
         new Event("strøm", "2 felter mod syd"),
         new Event("sejl", ""),
         new Event("vind", "4 felter diagonalt mod sydøst"),
-        new Event("strøm", "4 felter mod vest"),
+        new Event("strøm", "2 felter mod vest"),
         new Event("sejl", ""),
         new Event("vind", "4 felter diagonalt mod sydvest"),
+        new Event("sejl", ""),
         new Event("slut", "")
     ];
 
